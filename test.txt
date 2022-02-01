@@ -3,3 +3,4 @@ Important list of fruits:
 apples
 grapes
 bananas
+pineapple
